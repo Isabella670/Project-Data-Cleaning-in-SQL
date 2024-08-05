@@ -2,7 +2,7 @@
 
 -- Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
--- View the original data
+-- View the original data available
 SELECT * 
 FROM world_layoffs.layoffs;
 
